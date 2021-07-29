@@ -1,0 +1,45 @@
+/* Body */
+.body-font-family {
+  font-family: "Poppins", sans-serif;
+}
+/* HEader */
+.header-bg {
+  background-color: #264653;
+}
+/* H1-Tag */
+.heading-weight {
+  font-weight: 700;
+  font-size: 48px;
+  color: #0a0826;
+}
+/* Button-Backgroung-Color */
+.custom-btn-color {
+  background-color: #e76f51;
+}
+/* Text-Width */
+.custom-t-w {
+  width: 480px;
+}
+/* text-color */
+.custom-text-color {
+  color: #e76f51;
+}
+/* image-gray-% */
+.img-scale1 {
+  filter: grayscale(100%);
+}
+.img-scale2 {
+  filter: grayscale(80%);
+}
+/*--------------
+   CARD-SECTION 
+  --------------*/
+
+/* Icons-Color */
+.custom-i-color {
+  color: #e77c40;
+}
+/* latest-bike-section */
+.custom-bg {
+  background-color: rgb(175, 26, 26);
+}
